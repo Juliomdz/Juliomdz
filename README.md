@@ -1,8 +1,20 @@
-# 👋 Welcome to Julio's repo-store! 
-## You can contact him via: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-### Real good in these languages/frameworks:
+<div align="center">
+    <p>
+        <img src="https://github.com/caidevOficial/Resume/blob/main/media/pm/pageImgs/banner.gif?raw=true" width="600px"/><br>
+    </p>
+    <h1> 👋 Welcome to Julio 's repo-store!</h1>
+    <h3>👨‍💻Programming Student  at the Universidad Tecnologica Nacional [UTN] - Argentina</strong> </h3>
+</div>
+
+##
+
+## You can contact him via: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliommendez/)
+
+
+
+### Real good in these languages/frameworks⚡:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -11,13 +23,17 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-Confident about web developing with:
+##
+
+**Confident about web developing with:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-IDEs and tools:
+##
+
+**IDEs and tools:**
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
@@ -25,7 +41,9 @@ IDEs and tools:
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-OS:
+##
+
+**OS:**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -33,8 +51,9 @@ OS:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+##
 
-stuff currently watching:
+***stuff currently watching🤔:***
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
